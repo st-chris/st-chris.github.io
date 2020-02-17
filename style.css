@@ -1,0 +1,41 @@
+body {
+  background-image: url('bg_st-chris.png');
+  background-color: #f3f3f3;
+  font-family: 'Barlow', sans-serif;
+  padding-top: 40px;
+}
+
+.font-barlow {
+  font-family: 'Barlow', sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.bg-grey {
+  background-color: #f3f3f3;
+}
+.icon-color {
+  color: #e1805c;
+}
+.btn-icon-color {
+  background-color: #e1805c;
+  color: #f3ccbf;
+}
+.btn-icon-color:hover {
+  background-color: #f3ccbf;
+  color: #e1805c;
+}
+.nav-link {
+  color: #323232;
+}
+
+section:before {
+  height: 54px;
+  content: '';
+  display: block;
+}
+.intro {
+  padding: 15rem 0;
+}
